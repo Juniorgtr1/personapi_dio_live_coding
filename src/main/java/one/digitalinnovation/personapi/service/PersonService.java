@@ -1,3 +1,7 @@
+/*
+* CLASSE RESPONSAVEL PELA IMPLEMENTAÇÃO DAS REGRAS DE NEGOCIOS DA APLICAÇÃO.
+* */
+
 package one.digitalinnovation.personapi.service;
 
 import lombok.AllArgsConstructor;
