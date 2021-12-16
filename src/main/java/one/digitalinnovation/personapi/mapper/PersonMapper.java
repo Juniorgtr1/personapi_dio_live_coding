@@ -1,3 +1,8 @@
+/*
+* MAPSTRUCT - "https://mapstruct.org/"
+* INTERFACE RESPONSAVEL PELA CONVERSAO DE UMA ENTIDADE PARA DTO E DE UM DTO PARA UMA ENTIDADE
+* */
+
 package one.digitalinnovation.personapi.mapper;
 
 import one.digitalinnovation.personapi.dto.request.PersonDTO;

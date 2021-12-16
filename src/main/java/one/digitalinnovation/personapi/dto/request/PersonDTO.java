@@ -1,3 +1,7 @@
+/*
+* DTO(DATA TRANSFER OBJETC) - OBJETO CRIADO PARA FAZER TRANSFERENCIA DOS DADOS DE ENTRADA DA APLICAÇÃO
+* */
+
 package one.digitalinnovation.personapi.dto.request;
 
 import lombok.AllArgsConstructor;
